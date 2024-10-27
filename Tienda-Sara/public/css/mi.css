@@ -1,0 +1,5 @@
+.custom-caption {
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente para contraste */
+    padding: 10px;
+    border-radius: 10px;
+}
